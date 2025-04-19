@@ -5,3 +5,4 @@ I created a meme generator with input fields for top text and bottom text. When 
 In building this project I learned:
 * How to create controlled components with onChange to update state with every change made to the input field. 
 * Functional Programming: Keeping React Components "pure" by using the React Hook UseEffect.
+* How to call the ImageFlip API inside a useEffect Hook to fetch new meme images. 
